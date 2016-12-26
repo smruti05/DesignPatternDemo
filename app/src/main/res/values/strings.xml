@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacadePatternDemoApp</string>
+    <string name="button_samsung_sale">Check Samsung Sale</string>
+    <string name="button_motorola_sale">Check Motorola Sale</string>
+    <string name="button_asus_sale">Check Asus Sale</string>
+    <string name="textview_result">See result here..</string>
+</resources>
